@@ -1,1 +1,2 @@
 This is test for Odin Project. I am gonna rock this project!
+Testing core--wait.
